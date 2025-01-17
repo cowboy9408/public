@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useCallback } from "react";
-import { Table, Th, Td, SubRow, SearchBar } from "./styles"; // 스타일 파일 경로에 맞게 수정
+import { Table, Th, Td, SubRow, SearchBar } from "./styles"; 
 import axios from "axios";
 
 
