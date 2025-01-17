@@ -4,7 +4,7 @@ import Grid from "./components/Grid";
 const App = () => {
   return (
     <div>
-      <h1>Person Grid UI</h1>
+      <h1>Grid UI 과제</h1>
       <Grid />
     </div>
   );
